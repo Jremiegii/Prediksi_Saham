@@ -1,5 +1,0 @@
-Hasil :
-1. Akurasi yang diperoleh sudah bagus yakni > 90 % untuk tiap k-fold yang diuji
-
-Catatan :
-1. Coba untuk lakukan belence data agar label yang dimiliki seimbang

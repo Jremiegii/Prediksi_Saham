@@ -6,7 +6,7 @@ Dewasa ini, trend terhadap saham kian populer dikalangan masyarkat mulai dari im
 Penting untuk memahami bahwa investasi saham memerlukan pengetahuan yang cukup, riset yang matang, dan perencanaan yang hati-hati. Hal ini dikarenakan saham bergerak secara non linier dan perubahan harga bisa terjadi begitu cepat yang dipengaruhi oleh banyak faktor seperti kondisi keuangan perusahaan, laju inflasi, tingkat suku bunga, dll. Oleh karena itu, penting untuk mengetahui dan mempelajari perilaku pergerakan harga saham dengan melakukan analisis prediksi harga saham sehingga berguna untuk mengetahui prospek dan alur investasi di masa mendatang. Berdasarkan latar belakang yang telah diuraikan tersebut maka dapat dilakukan penelitian dalam memprediksi harga saham dengan pendekatan menggunakan algoritma Support Vector Machine (SVM) sehingga dapat membantu para investor dalam melihat prospek suatu saham tertentu. Tidak hanya itu, metode algoritma yang digunakan juga diharapkan mampu menjawab permasalahan yang telah diuraikan serta dapat mengetahui tingkat keakuratan dari suatu model algoritma dalam memprediksi harga saham.
 
 ### Data
-Pada penelitian ini data yang digunakan ialah data pergerakan harian harga saham Manchester United dengan kode saham yang terdaftar pada New York Stock Exchange (NYSC) ialah MANU. Data tersebut diperoleh melalui ![yahoo finance](https://finance.yahoo.com/) dalam rentang waktu 5 tahun terakhir yakni pada 31 Oktober 2018 sampai 30 Oktober 2023 dengan jumlah data 1257. Pada data tersebut mengandung 7 atribut yang dikemas dalam format file csv yakni sebagai berikut:
+Pada penelitian ini data yang digunakan ialah data pergerakan harian harga saham Manchester United dengan kode saham yang terdaftar pada New York Stock Exchange (NYSC) ialah MANU. Data tersebut diperoleh melalui [yahoo finance](https://finance.yahoo.com/most-active/) dalam rentang waktu 5 tahun terakhir yakni pada 31 Oktober 2018 sampai 30 Oktober 2023 dengan jumlah data 1257. Pada data tersebut mengandung 7 atribut yang dikemas dalam format file csv yakni sebagai berikut:
 1.	Date merupakan tanggal transaksi harga saham berlangsung.
 2.	Open merupakan harga buka saham pada waktu tertentu dengan tipe data bilangan desimal.
 3.	Close merupakan harga tutup saham pada waktu tertentu dengan tipe data bilangan desimal.
@@ -24,10 +24,10 @@ Pada penelitian ini data yang digunakan ialah data pergerakan harian harga saham
 6. Hasil & evaluasi.
 
 ### Sistem Folder
-1. Data berisikan file dataset.
-2. Documents berisikan file naskah penelitian beserta perhitungannya.
-3. Referensi berisikan file rujukan yang digunakan dalam penelitian.
-4. Source Code berisikan file code program.
+1. Folder Data berisikan file dataset.
+2. Folder Documents berisikan file naskah penelitian beserta perhitungannya.
+3. Folder Referensi berisikan file rujukan yang digunakan dalam penelitian.
+4. Folder Source Code berisikan file code program.
 
 ### Run Code
 1. Masuk Ke folder Source Code
